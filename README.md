@@ -24,7 +24,7 @@ This Gravity Simulator is an interactive web application that allows users to si
 To set up the Gravity Simulator on your local machine, follow these steps:
 
 1. Clone or download the project repository.
-2. Open the `index.html` file in a modern web browser.
+2. Open the `simulation.html` file in a modern web browser.
 
 No external dependencies are required, as the project uses native HTML5, CSS3, and JavaScript features.
 
