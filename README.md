@@ -4,6 +4,8 @@
 
 This Gravity Simulator is an interactive web application that allows users to simulate the effect of gravity from different celestial bodies on spawned balls within a canvas environment. The project builds upon the base tutorial provided by [this YouTube video](https://www.youtube.com/watch?v=oPuSvdBGrpE), with several enhancements for a more dynamic and engaging user experience.
 
+## Play the [Game](https://bhurtyalkritan.github.io/planetary-gravity/)
+
 ## Features
 
 - **Celestial Gravity Simulation**: Users can select the gravity of Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, or the Sun to see how it affects the movement of the balls.
